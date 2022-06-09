@@ -1,0 +1,191 @@
+Atrybut a6
+     no ---> Atrybut a5
+          0-2 ---> Atrybut a4
+               30-34 ---> Atrybut a1
+                    no-recurrence-events ---> Atrybut a7
+                         3 ---> no
+                         1 ---> no
+                         2 ---> Atrybut a9
+                              left_low ---> no
+                              left_up ---> Atrybut a2
+                                   30-39 ---> no
+                                   60-69 ---> no
+                                   40-49 ---> yes
+                              right_low ---> no
+                              right_up ---> yes
+                    recurrence-events ---> Atrybut a9
+                         ? ---> no
+                         right_up ---> no
+                         central ---> no
+                         left_up ---> Atrybut a2
+                              30-39 ---> no
+                              50-59 ---> yes
+                              60-69 ---> yes
+                         left_low ---> yes
+               20-24 ---> Atrybut a7
+                    2 ---> no
+                    1 ---> no
+                    3 ---> Atrybut a3
+                         ge40 ---> no
+                         premeno ---> Atrybut a9
+                              central ---> no
+                              left_low ---> yes
+                              left_up ---> yes
+               15-19 ---> Atrybut a9
+                    left_up ---> Atrybut a2
+                         60-69 ---> Atrybut a8
+                              right ---> Atrybut a7
+                                   2 ---> no
+                                   1 ---> no
+                                   3 ---> yes
+                              left ---> yes
+                         30-39 ---> no
+                         40-49 ---> no
+                    left_low ---> no
+                    central ---> no
+                    right_low ---> no
+                    right_up ---> no
+               0-4 ---> no
+               25-29 ---> Atrybut a2
+                    50-59 ---> Atrybut a1
+                         no-recurrence-events ---> no
+                         recurrence-events ---> Atrybut a7
+                              2 ---> no
+                              1 ---> no
+                              3 ---> yes
+                    30-39 ---> no
+                    40-49 ---> Atrybut a3
+                         premeno ---> Atrybut a9
+                              left_up ---> Atrybut a1
+                                   no-recurrence-events ---> Atrybut a7
+                                        2 ---> Atrybut a8
+                                             left ---> no
+                                             right ---> no
+                                        3 ---> yes
+                                   recurrence-events ---> no
+                              left_low ---> Atrybut a7
+                                   2 ---> Atrybut a8
+                                        right ---> no
+                                        left ---> yes
+                                   1 ---> yes
+                              right_low ---> no
+                              central ---> no
+                              right_up ---> no
+                         ge40 ---> no
+                    60-69 ---> Atrybut a9
+                         left_up ---> no
+                         left_low ---> no
+                         right_low ---> yes
+               50-54 ---> Atrybut a8
+                    left ---> no
+                    right ---> Atrybut a7
+                         1 ---> no
+                         2 ---> yes
+                         3 ---> no
+               10-14 ---> Atrybut a7
+                    1 ---> no
+                    3 ---> no
+                    2 ---> Atrybut a2
+                         40-49 ---> Atrybut a8
+                              left ---> Atrybut a9
+                                   left_low ---> no
+                                   left_up ---> no
+                              right ---> no
+                         50-59 ---> no
+                         70-79 ---> no
+                         60-69 ---> Atrybut a8
+                              right ---> yes
+                              left ---> no
+                         30-39 ---> no
+               40-44 ---> Atrybut a2
+                    50-59 ---> no
+                    40-49 ---> no
+                    70-79 ---> no
+                    30-39 ---> Atrybut a9
+                         right_up ---> no
+                         left_low ---> yes
+                         left_up ---> no
+                    60-69 ---> no
+               35-39 ---> no
+               5-9 ---> Atrybut a2
+                    60-69 ---> no
+                    50-59 ---> no
+                    30-39 ---> no
+                    40-49 ---> yes
+               45-49 ---> yes
+          6-8 ---> Atrybut a9
+               left_up ---> no
+               left_low ---> yes
+          3-5 ---> Atrybut a4
+               20-24 ---> Atrybut a1
+                    no-recurrence-events ---> no
+                    recurrence-events ---> yes
+               40-44 ---> yes
+               25-29 ---> Atrybut a1
+                    no-recurrence-events ---> yes
+                    recurrence-events ---> no
+               10-14 ---> no
+               30-34 ---> Atrybut a2
+                    40-49 ---> no
+                    30-39 ---> yes
+                    50-59 ---> no
+          15-17 ---> no
+          12-14 ---> yes
+          9-11 ---> yes
+     yes ---> Atrybut a5
+          6-8 ---> Atrybut a4
+               30-34 ---> Atrybut a1
+                    no-recurrence-events ---> no
+                    recurrence-events ---> Atrybut a7
+                         3 ---> no
+                         2 ---> yes
+               25-29 ---> yes
+               45-49 ---> no
+               15-19 ---> yes
+               35-39 ---> no
+               10-14 ---> yes
+               40-44 ---> yes
+          0-2 ---> Atrybut a4
+               25-29 ---> no
+               35-39 ---> yes
+               20-24 ---> no
+               50-54 ---> yes
+               15-19 ---> Atrybut a1
+                    no-recurrence-events ---> yes
+                    recurrence-events ---> no
+               30-34 ---> Atrybut a2
+                    40-49 ---> no
+                    60-69 ---> yes
+          9-11 ---> Atrybut a1
+               no-recurrence-events ---> yes
+               recurrence-events ---> Atrybut a3
+                    premeno ---> no
+                    ge40 ---> yes
+          3-5 ---> Atrybut a3
+               premeno ---> Atrybut a7
+                    3 ---> yes
+                    2 ---> Atrybut a4
+                         20-24 ---> Atrybut a8
+                              left ---> Atrybut a2
+                                   50-59 ---> no
+                                   30-39 ---> no
+                                   40-49 ---> yes
+                              right ---> yes
+                         30-34 ---> Atrybut a2
+                              50-59 ---> yes
+                              40-49 ---> no
+                         25-29 ---> yes
+               ge40 ---> Atrybut a9
+                    left_low ---> no
+                    left_up ---> no
+                    right_up ---> no
+                    central ---> yes
+          15-17 ---> Atrybut a7
+               3 ---> no
+               2 ---> yes
+          12-14 ---> yes
+          24-26 ---> yes
+     ? ---> Atrybut a3
+          premeno ---> yes
+          ge40 ---> yes
+          lt40 ---> no
